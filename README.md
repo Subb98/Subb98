@@ -16,9 +16,9 @@ And welcome to my page! I like to experiment with some technologies / tools, and
 - November
 
 ## Books
-- [Чистая архитектура. Искусство разработки программного обеспечения (Мартин Роберт С.)](https://www.ozon.ru/product/chistaya-arhitektura-iskusstvo-razrabotki-programmnogo-obespecheniya-martin-robert-s-236017209) (done)
-- [Проект «Феникс». Роман о том, как DevOps меняет бизнес к лучшему (Ким Джин, Бер Кевин)](https://www.ozon.ru/product/proekt-feniks-roman-o-tom-kak-devops-menyaet-biznes-k-luchshemu-33436922) (done)
-- [Высоконагруженные приложения. Программирование масштабирование поддержка (Клеппман Мартин)](https://www.ozon.ru/product/vysokonagruzhennye-prilozheniya-programmirovanie-masshtabirovanie-podderzhka-kleppman-martin-524949445) (in progress)
-- [Компьютерные сети. Нисходящий подход (Росс Кит, Куроуз Джеймс)](https://www.ozon.ru/product/kompyuternye-seti-nishodyashchiy-podhod-135453228) (in progress)
-- [Не заставляйте меня думать. Веб-юзабилити и здравый смысл. 3-е издание (Круг Стив)](https://www.ozon.ru/product/ne-zastavlyayte-menya-dumat-veb-yuzabiliti-i-zdravyy-smysl-3-e-izdanie-don-t-make-me-think-139556451) (done)
-- [Не сходите с ума на работе (Фрайд Джейсон, Хенссон Дэвид Хайнемайер)](https://www.ozon.ru/product/ne-shodite-s-uma-na-rabote-151524195) (done)
+- [Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-dp-0134494164/dp/0134494164/) (done)
+- [The Phoenix Project (A Novel About IT, DevOps, and Helping Your Business Win) (Gene Kim)](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) (done)
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (Martin Kleppmann)](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) (in progress)
+- [Computer Networking: A Top-Down Approach (6th Edition) (James F. Kurose, Keith W. Ross)](https://www.amazon.com/Computer-Networking-Top-Down-Approach-6th/dp/0132856204) (in progress)
+- [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Steve Krug)](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) (done)
+- [It Doesn't Have to Be Crazy at Work (Jason Fried, David Heinemeier Hansson)](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780) (done)
